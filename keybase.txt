@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/fucokirafi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fucokirafi.github.io
+  * I am fucokirafi (https://keybase.io/fucokirafi) on keybase.
+  * I have a public key with fingerprint B801 1C62 3CAD A9BB D9D2  1901 AAD9 524C 943C 00FA
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d0e484f4dee2b5c9612c7e523eff8e1cb0e24313f3775251b38e0793aebc03a50a",
+      "fingerprint": "b8011c623cada9bbd9d21901aad9524c943c00fa",
+      "host": "keybase.io",
+      "key_id": "aad9524c943c00fa",
+      "kid": "0101d0e484f4dee2b5c9612c7e523eff8e1cb0e24313f3775251b38e0793aebc03a50a",
+      "uid": "9c6cb5f5944b6895e6f6195acaedda19",
+      "username": "fucokirafi"
+    },
+    "service": {
+      "hostname": "fucokirafi.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1532156250,
+  "expire_in": 157680000,
+  "prev": "6cf7b62f978ef429d0d4a4805367edda0ec5a64bcb03ddb230fdf78825b3bcd3",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJZSFRRGJ5pUdQ2AsEXg05QQkOeu5y7jEYLRUYPYYuhWdPZ7nib8d5p
+5o4pUhSVipWQUtQQUUEhFtGKWVAa1oPVQ4uSZQUVgQZmEkUbdK/VUz12Xg7n5/u+
+830ff/fk8b5M/66sprbw89F2/92uE0nf+lX9ZbWA2KwGBGtBhI9dPMp4wglFTAaC
+AApQYJDLmmzIjHORIKorgkhVjkSJG4bGBUogF2VJkAxJVZGIBCJpHKq6hDmhUMII
+YhAAhmmFeTwWNy3HlSUaFASqiBLFDOuEMJ2Jgg4FjJmORJnqskQhNDxihZ3wGK45
+ghN8nmm7M/cRGrP3D/x/9p0ck9OpQgkykC7LRNF0xBVDEXSEKeaMYUH3gAket3Al
+d9FGktoRM44NE2wLAHdeZVLuVetl+QszL2w6FUnyK1ksbjs2taMuosJxYomgp+DU
+xDzKVk5Cv8VCxLSY26jLqOLxhGlbICi4SOqYnrqAJFFAiohgAPDqmBnnIdNDIFXR
+oHu8f3iVK6lQQyWKaOiqxg1Z1BlkMpY1iCRF9ZJBThFWZOJ2JTFGRAkazFA1TURE
+IpRJwIu3xbJBUHZt4rArmTDDFnaScQ623eosn+DzZ/rSJo7zNs2XmTHtz/7llqR/
+S7+8eVZ502qQ5d/3TMm4WjrfT1qm7xX2N2sNtQ1F2alX4G1j770QKlhxrrAy50Ne
+XvZoSeTB13XtfR+6mtomjuy8v6S5vCMwlNb2bjt+sPDpjkT96ZLShgV3RlYcC468
+af24ddGausWjcwe+5xcOFV3r6skHdfbwo54rZy9uvD1j94vK2dujT3pOZrSeyG5Z
+yj8d+9jBLy3rfZkfnVAMNoRP2bk/+haUjVyfYw9GtsSS9fMPns+ZtCn18PRjvf2Q
+tWRqcXX1l8s1tVbXYGDm0UWHPw8cKXt9puBeSr9B+5ddX31hSt3x1OzGN8PdaU0v
+o0MdqQPWHqKwQys7c9OstZ3Lb77/CcuBS/Y=
+=73wG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fucokirafi
+
+==================================================================
